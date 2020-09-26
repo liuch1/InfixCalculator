@@ -1,0 +1,13 @@
+Name: Christina Liu
+NetID: cliu61	
+Class: CSC 172  
+Assignment: Project 1
+
+InfixCalculator is a java program that reads a determined file and converts the infix expressions into postfix expressions using the Shunting Yard Algorithm before evaluating each expression and writing them onto a new output file
+Make sure all programs and files are in the same directory*
+To run it please go through the following in terminal:
+	java --version
+	(Select path to where the file location of InfixCalculator.java is using cd *name*)
+	javac *.java 
+	java InfixCalculator *file name being read.txt* *file name being created/written on.txt*
+	Ex. java InfixCalculator infix_expr_short.txt my_eval.txt

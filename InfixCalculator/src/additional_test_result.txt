@@ -1,0 +1,19 @@
+3.00
+3.00
+1.00
+1.00
+6.00
+6.00
+0.50
+0.50
+4.00
+4.00
+1.00
+1.00
+Please check the expression is valid.
+Please check the expression is valid.
+Please check the expression is valid.
+No answer can be provided as numbers cannot be divided by zero.
+0.00
+0.00
+0.00
