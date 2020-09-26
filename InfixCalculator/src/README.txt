@@ -15,12 +15,6 @@ Going off of that, in the InfixCalculator class the first thing the program does
 From there the method to convert the infix expression to postfix using the Shunting Yard Algorithm is called where another method to determine precendence is used to help determine operation order.
 Once the expression is converted, the method to evaluate postfix expressions is used to generate a value using switch with each operation having a different case with expressions to help with error in invalid expressions implemented.
 From there a new file is generated and another method is used to help format writing the resulting values onto a new file.
-		
-Obstacles:
-Some obstacles I encountered when writing this code was I had difficulty getting the format correct when writing onto a new file hence why a separate method was created to help with it.
-Another obstacle was determining precedence. I had a much longer code for determining precedence by using if else statements before I decided to use Math to help make the code shorter.
-Originally I was also having issues separating out operators from operands as the method I originally used pushed all non-digit symbols but when decimal points were involved it didn't work. 
-One last obstacle I encountered was yet again with format but this time ensuring the number format was "0.00" which is why I used DecimalFormat and you'll see throughout my code I have instances of doublechecking and correcting.
 
 Files:
 InfixCalculator class with main method to read file and write new one, method to determine precedence of operators, method to convert infix to postfix, method to evaluate postfix, method to format lines in new file 
