@@ -1,5 +1,4 @@
-Name: Christina Liu
-NetID: cliu61	
+Name: Christina Liu	
 Class: CSC 172  
 Assignment: Project 1
 
